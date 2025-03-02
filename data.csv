@@ -1,0 +1,11 @@
+age,gender,education,job_title,years_experience,description,salary
+25,Male,Bachelor,Data Analyst,2,"Junior data analyst in a startup",50000
+30,Female,Master,Data Scientist,5,"Experienced in machine learning",85000
+28,Male,Bachelor,Software Engineer,3,"Backend developer with Python",70000
+35,Female,PhD,Machine Learning Engineer,7,"Deep learning specialist",120000
+40,Male,Bachelor,Project Manager,10,"Manages data science projects",95000
+27,Non-binary,Master,Data Engineer,4,"ETL and database management",78000
+50,Female,PhD,AI Researcher,20,"Research in artificial intelligence",150000
+23,Male,Bachelor,Intern,1,"Entry-level position in analytics",35000
+32,Female,Master,BI Analyst,6,"Business intelligence and reporting",82000
+29,Male,Bachelor,Full Stack Developer,4,"Frontend and backend developer",73000
